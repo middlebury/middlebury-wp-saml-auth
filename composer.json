@@ -1,6 +1,6 @@
 {
     "name": "middlebury/middlebury-wp-saml-auth",
-    "type": "library",
+    "type": "wordpress-plugin",
     "description": "Provides filters and actions to configure the wp-saml-auth module and manage users.",
     "homepage": "https://github.com/middlebury/middlebury-wp-saml-auth",
     "license": "GPL-2.0-or-later",
